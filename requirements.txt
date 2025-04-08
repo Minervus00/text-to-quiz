@@ -1,0 +1,4 @@
+gradio-client
+streamlit
+langchain-text-splitters
+PyPDF2
