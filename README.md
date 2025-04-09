@@ -17,7 +17,8 @@ Example with Gradio Interface [here](https://colab.research.google.com/drive/1he
 2. Copy the public URL given by gradio
 3. Open the file named `main.py`
 4. Paste the URL as new value for the `url` variable
-5. Launch the app: `streamlit run main.py`
-6. Enjoy.
+5. `pip install -r requirements.txt`
+6. Launch the app: `streamlit run main.py`
+7. Enjoy
 
 *Note that on T4 GPU generation takes approximately 12s per question*
